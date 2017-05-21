@@ -1,0 +1,17 @@
+<resources>
+    <string name="provider_permission">com.yandex.mandrik.launcher.permission</string>
+    <string name="provider_permission_write">com.yandex.mandrik.launcher.permission.WRITE</string>
+    <string name="provider_permission_read_all">com.yandex.mandrik.launcher.permission.READ_ALL</string>
+
+    <string name="app_name">Test ContextProvider</string>
+    <string name="insert_new_uri">Insert new URI</string>
+    <string name="show_all">Show all URIs</string>
+    <string name="show_last_record">Show last record</string>
+    <string name="show_records_in_day">Show record in this day</string>
+    <string name="enter_uri">Enter URI</string>
+    <string name="add">Add</string>
+    <string name="cancel">Cancel</string>
+    <string name="permissions_are_not_granted">Permissions are not granted</string>
+    <string name="uri_should_be_added">Uri should be added if it is correct</string>
+    <string name="update_list_of_uris">Please, update list of Uris to see it</string>
+</resources>
